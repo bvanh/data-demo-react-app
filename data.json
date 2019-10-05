@@ -1,7 +1,7 @@
 {
     "datahotel": [
         {
-            "src": "./static/img/ks2.jpg",
+            "src": "https://raw.githubusercontent.com/bvanh/React-tamdaoweb/master/static/img/anhthuvien1.jpg",
             "ten": "Bách Xanh House",
             "vitri": "Cách trung tâm 100m",
             "gia":500000,
