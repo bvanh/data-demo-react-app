@@ -119,6 +119,14 @@
             "vitri": "Gan quán gió",
             "gia": 1200000,
             "danhgia": 2
+        },
+        {
+            "id":16,
+            "src": "./static/img/ks16.jpg",
+            "ten": "Sofia Hotel",
+            "vitri": "Gan quán gió",
+            "gia": 1200000,
+            "danhgia": 2
         }
     ]
     
